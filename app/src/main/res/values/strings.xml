@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CI/CD Demo App</string>
+    <string name="hello_message">Hello World! 🚀\nEste APK foi gerado automaticamente!</string>
+    <string name="cicd_info">Build automático via GitHub Actions\nCI/CD Pipeline</string>
+</resources>
